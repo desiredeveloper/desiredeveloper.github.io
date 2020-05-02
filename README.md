@@ -1,5 +1,3 @@
-# desiredeveloper.github.io
+#Browse my Portfolio here
 
-Browse my Portfolio here
-
-desiredeveloper.github.io
+https://desiredeveloper.github.io/
